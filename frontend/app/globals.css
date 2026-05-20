@@ -1,0 +1,89 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+  --cursor-home: url("/cursor-home.svg") 16 16;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  cursor: var(--cursor-home), auto;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #e2ded7;
+  color: #1a1714;
+  font-family: var(--font-body), sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  cursor: var(--cursor-home), auto;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display), sans-serif;
+  letter-spacing: -0.04em;
+}
+
+.font-serif {
+  font-family: var(--font-serif), serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  cursor: var(--cursor-home), pointer;
+}
+
+button,
+[role="button"],
+summary,
+label,
+select,
+input,
+textarea {
+  cursor: var(--cursor-home), auto;
+}
+
+::selection {
+  background: #c4943d;
+  color: #fff;
+}
+
+.cursor-trail-layer {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+}
+
+.cursor-sparkle {
+  position: fixed;
+  font-size: 22px;
+  line-height: 1;
+  transform: translate(-50%, -50%) rotate(var(--sparkle-rotate, 0deg));
+  filter: drop-shadow(0 6px 14px rgba(26, 23, 20, 0.32));
+  text-shadow: 0 0 14px rgba(214, 166, 63, 0.35);
+  animation: cursor-sparkle-fade 900ms ease-out forwards;
+  will-change: transform, opacity;
+}
+
+@keyframes cursor-sparkle-fade {
+  0% {
+    opacity: 0.92;
+    transform: translate(-50%, -50%) scale(0.75) rotate(var(--sparkle-rotate, 0deg));
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -58%) scale(1.22) rotate(var(--sparkle-rotate, 0deg));
+  }
+}
