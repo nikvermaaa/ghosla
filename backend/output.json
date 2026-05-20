@@ -1,0 +1,751 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "2 BHK in Arka Residency",
+      "society": "Arka Residency",
+      "address": "Flat 102, VM35+837 Service Road, Doddathoguru, Konappana Agrahara, Bengaluru 560100",
+      "bhk": "2 BHK",
+      "area_sqft": 1200,
+      "floor": "1st Floor / 4 Floors",
+      "total_floors": 4,
+      "facing": "North",
+      "age_years": 8,
+      "rent": 24500,
+      "maintenance": 0,
+      "deposit": 60000,
+      "furnishing": "fully-furnished",
+      "furnishing_details": [
+        "2 beds with mattresses",
+        "4 wardrobes",
+        "sofa set",
+        "dining table",
+        "TV unit",
+        "refrigerator",
+        "washing machine",
+        "microwave",
+        "geyser",
+        "AC in master bedroom",
+        "modular kitchen",
+        "chimney",
+        "curtains"
+      ],
+      "amenities": [
+        "Gym",
+        "Power backup",
+        "Lift",
+        "Security",
+        "Visitor parking",
+        "Housekeeping",
+        "Wi-Fi provision",
+        "Covered car parking",
+        "CCTV",
+        "Swimming pool",
+        "Jogging track"
+      ],
+      "available_from": "Immediate",
+      "preferred_tenants": "Working Professional",
+      "owner": {
+        "name": "Raghavendra Bhat",
+        "phone": "+91 83412 56493",
+        "type": "Owner",
+        "since": "Listed 6 days ago",
+        "verified": true
+      },
+      "platform": "NoBroker",
+      "platform_color": "#2563eb",
+      "platform_url": "https://www.nobroker.in/property/rent/bangalore/Electronic%20City",
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "tags": [
+        "near infosys",
+        "fully furnished",
+        "gym access",
+        "pool",
+        "bachelor friendly"
+      ],
+      "locality": "electronic city",
+      "phase": "Phase 1",
+      "lifestyle": "community",
+      "commute_friendly": true,
+      "nearby": {
+        "it_companies": [
+          "Infosys Campus (2.2 km)",
+          "Wipro Gate (2.8 km)",
+          "Tech Mahindra (3.1 km)"
+        ],
+        "metro": "Electronic City Metro Station (Yellow Line) — 1.8 km",
+        "hospital": "Kauvery Hospital, Electronic City — 2.4 km",
+        "supermarket": "D Mart Ready, Neeladri Road — 1.2 km",
+        "school": "Delhi Public School E-City — 4.6 km",
+        "bus_stop": "Doddathoguru Bus Stop — 0.4 km"
+      },
+      "locality_intel": {
+        "overall_rating": 4.2,
+        "summary": "This pocket near Doddathoguru works well for IT professionals who want a short ride to Phase 1 offices and quick access to Hosur Road. Social infrastructure is solid, but internal roads get busy during office hours and some apartments still depend partly on tanker water in summer.",
+        "pros": [
+          "Good access to Infosys and Wipro campuses",
+          "Yellow Line metro reachable in under 10 minutes by auto",
+          "Hospitals and pharmacies available within 3 km",
+          "Multiple gyms and supermarkets on Neeladri Road",
+          "Generally decent rental value for furnished 2 BHKs"
+        ],
+        "red_flags": [
+          "Traffic builds up near Konappana Agrahara junction",
+          "Dust from ongoing roadwork can affect air quality",
+          "Some societies rely on borewell water in peak summer",
+          "Service road noise is noticeable on lower floors",
+          "Weekend congestion near malls and eateries"
+        ],
+        "aqi": {
+          "value": 88,
+          "level": "Moderate",
+          "pm25": "31 µg/m³",
+          "pm10": "68 µg/m³"
+        },
+        "noise": {
+          "level_db": 58,
+          "category": "Moderate",
+          "note": "Slight traffic noise from service road; manageable on 1st floor with windows closed."
+        },
+        "traffic": {
+          "peak_delay": "15–25 minutes extra towards Wipro Gate and Neeladri Road during 8:30–10:30 AM.",
+          "off_peak": "Electronic City Phase 1 offices usually reachable in 8–12 minutes."
+        },
+        "water_supply": {
+          "source": "combination",
+          "frequency": "daily",
+          "flag": "BWSSB plus borewell; tanker support may be used in late summer weeks."
+        },
+        "safety": {
+          "rating": "Good",
+          "police_station": "Electronic City Police Station — 2.9 km"
+        },
+        "internet": "Airtel Xstream, ACT Fibernet and JioFiber available; typical speeds 100–300 Mbps.",
+        "power_backup": "Generator backup for lift, common areas and one light/fan point in flat."
+      },
+      "match_score": 95,
+      "fraud_score": 12,
+      "vibe_score": 84
+    },
+    {
+      "id": 2,
+      "title": "2 BHK in Reliable Domicile",
+      "society": "Reliable Domicile",
+      "address": "Flat 3C, Neeladri Main Road, Electronic City Phase 1, Bengaluru 560100",
+      "bhk": "2 BHK",
+      "area_sqft": 1000,
+      "floor": "3rd Floor / 3 Floors",
+      "total_floors": 3,
+      "facing": "West",
+      "age_years": 6,
+      "rent": 23500,
+      "maintenance": 2500,
+      "deposit": 100000,
+      "furnishing": "fully-furnished",
+      "furnishing_details": [
+        "2 cots with mattresses",
+        "sofa",
+        "dining table",
+        "wardrobes",
+        "study table",
+        "refrigerator",
+        "washing machine",
+        "TV",
+        "geyser",
+        "kitchen cabinets",
+        "chimney",
+        "lights and fans"
+      ],
+      "amenities": [
+        "Gym",
+        "Clubhouse",
+        "Park",
+        "Lift",
+        "Intercom",
+        "Security",
+        "Power backup",
+        "Rain water harvesting",
+        "Party hall",
+        "Covered parking"
+      ],
+      "available_from": "Immediate",
+      "preferred_tenants": "Bachelor/Family",
+      "owner": {
+        "name": "Sowmya R",
+        "phone": "+91 78963 41258",
+        "type": "Owner",
+        "since": "Listed 4 days ago",
+        "verified": true
+      },
+      "platform": "NoBroker",
+      "platform_color": "#2563eb",
+      "platform_url": "https://www.nobroker.in/property/rent/bangalore/Electronic%20City%20Phase%201",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+      "tags": [
+        "gym in society",
+        "short commute",
+        "metro reachable",
+        "fitness friendly",
+        "fully furnished"
+      ],
+      "locality": "electronic city",
+      "phase": "Phase 1",
+      "lifestyle": "balanced",
+      "commute_friendly": true,
+      "nearby": {
+        "it_companies": [
+          "Infosys Campus (1.9 km)",
+          "Wipro Limited (2.5 km)",
+          "TCS iON / nearby tech offices (3.4 km)"
+        ],
+        "metro": "Electronic City Metro Station (Yellow Line) — 1.3 km",
+        "hospital": "Springleaf Hospital — 1.1 km",
+        "supermarket": "Star Hyper, Neeladri Road — 0.8 km",
+        "school": "Ekam International School — 5.2 km",
+        "bus_stop": "Neeladri Road Bus Stop — 0.3 km"
+      },
+      "locality_intel": {
+        "overall_rating": 4.3,
+        "summary": "Neeladri Road is practical for professionals who want gyms, food options, medical stores and a fast office commute without depending fully on cabs. The trade-off is regular peak-hour congestion and occasional water-pressure variation in older mid-rise societies.",
+        "pros": [
+          "Walkable access to gyms and supermarkets",
+          "Good office connectivity inside Electronic City",
+          "Metro station relatively close",
+          "Active rental community with many working professionals",
+          "Hospitals and pharmacies open late"
+        ],
+        "red_flags": [
+          "Rush-hour bottlenecks on Neeladri Road",
+          "Construction dust in some stretches",
+          "Summer water pressure can drop",
+          "Parking gets tight in compact societies",
+          "Roadside noise higher in evenings"
+        ],
+        "aqi": {
+          "value": 92,
+          "level": "Moderate",
+          "pm25": "34 µg/m³",
+          "pm10": "72 µg/m³"
+        },
+        "noise": {
+          "level_db": 61,
+          "category": "Moderate-High",
+          "note": "Facing internal road but 3rd floor reduces direct traffic disturbance."
+        },
+        "traffic": {
+          "peak_delay": "10–20 minutes extra within a 2–3 km radius during office start and close times.",
+          "off_peak": "Most Phase 1 workplaces reachable in 7–10 minutes."
+        },
+        "water_supply": {
+          "source": "combination",
+          "frequency": "daily",
+          "flag": "Borewell plus BWSSB; tanker may be called during April-May shortages."
+        },
+        "safety": {
+          "rating": "Good",
+          "police_station": "Electronic City Police Station — 2.2 km"
+        },
+        "internet": "ACT, Airtel and JioFiber available with 100–500 Mbps plans common.",
+        "power_backup": "Full backup for common areas and limited apartment backup for lights, fans and Wi-Fi."
+      },
+      "match_score": 97,
+      "fraud_score": 14,
+      "vibe_score": 79
+    },
+    {
+      "id": 3,
+      "title": "2 BHK in Achyuthanandha Apartment",
+      "society": "Achyuthanandha Apartment",
+      "address": "Flat 204, Glass Factory Layout, Electronic City Phase 2, Bengaluru 560100",
+      "bhk": "2 BHK",
+      "area_sqft": 1200,
+      "floor": "2nd Floor / 5 Floors",
+      "total_floors": 5,
+      "facing": "East",
+      "age_years": 10,
+      "rent": 22000,
+      "maintenance": 1800,
+      "deposit": 50000,
+      "furnishing": "fully-furnished",
+      "furnishing_details": [
+        "queen bed",
+        "single bed",
+        "wardrobes",
+        "sofa",
+        "center table",
+        "dining set",
+        "refrigerator",
+        "front-load washing machine",
+        "2 geysers",
+        "modular kitchen",
+        "gas stove",
+        "chimney",
+        "curtains"
+      ],
+      "amenities": [
+        "CCTV",
+        "Lift",
+        "Security",
+        "Power backup",
+        "Gym",
+        "Swimming pool",
+        "Jogging track",
+        "Covered parking"
+      ],
+      "available_from": "Immediate",
+      "preferred_tenants": "Working Professional",
+      "owner": {
+        "name": "Jeevitha N",
+        "phone": "+91 98868 90457",
+        "type": "Owner",
+        "since": "Listed 5 days ago",
+        "verified": false
+      },
+      "platform": "Housing",
+      "platform_color": "#f97316",
+      "platform_url": "https://housing.com/rent/search-C8P2x3w4n9m1k7tq-electronic-city-phase-2-bengaluru",
+      "image": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&q=80",
+      "tags": [
+        "value deal",
+        "phase 2",
+        "gym pool",
+        "east facing",
+        "near hospitals"
+      ],
+      "locality": "electronic city",
+      "phase": "Phase 2",
+      "lifestyle": "balanced",
+      "commute_friendly": true,
+      "nearby": {
+        "it_companies": [
+          "Biocon Campus (3.5 km)",
+          "Infosys Campus (4.1 km)",
+          "Tech Mahindra (4.8 km)"
+        ],
+        "metro": "Huskur Road Metro Station (Yellow Line) — 2.1 km",
+        "hospital": "Mazumdar Shaw Medical Center — 2.8 km",
+        "supermarket": "More Supermarket, Phase 2 — 0.9 km",
+        "school": "St. Francis De Sales Public School — 2.3 km",
+        "bus_stop": "Electronic City Phase 2 Bus Stop — 0.5 km"
+      },
+      "locality_intel": {
+        "overall_rating": 4.0,
+        "summary": "Phase 2 offers slightly better value than Phase 1 and still keeps you connected to core tech campuses and major hospitals. The area feels less dense in parts, but road quality and water dependence vary society to society.",
+        "pros": [
+          "Rent is competitive for 1200 sqft layout",
+          "Hospitals like Mazumdar Shaw and Narayana are nearby",
+          "Yellow Line access improves commuting options",
+          "Less commercial chaos than central Neeladri stretch",
+          "Suitable for professionals working in south E-City belt"
+        ],
+        "red_flags": [
+          "Some inner roads remain patchy",
+          "Water tanker use is common in summer",
+          "Fewer premium cafes and fitness studios than Phase 1",
+          "Auto availability dips late at night",
+          "Air quality can worsen near heavy vehicle movement"
+        ],
+        "aqi": {
+          "value": 84,
+          "level": "Moderate",
+          "pm25": "29 µg/m³",
+          "pm10": "63 µg/m³"
+        },
+        "noise": {
+          "level_db": 54,
+          "category": "Moderate",
+          "note": "Inside layout road; quieter than properties directly on Hosur Road."
+        },
+        "traffic": {
+          "peak_delay": "12–18 minutes extra near Hebbagodi and Phase 2 junctions in peak office hours.",
+          "off_peak": "Bommasandra and central Phase 2 stretches are reachable in 8–12 minutes."
+        },
+        "water_supply": {
+          "source": "combination",
+          "frequency": "daily",
+          "flag": "Daily supply, but tanker top-up may be needed in late summer."
+        },
+        "safety": {
+          "rating": "Moderate",
+          "police_station": "Hebbagodi Police Station — 3.1 km"
+        },
+        "internet": "ACT and Airtel fiber available in most blocks; 75–200 Mbps common.",
+        "power_backup": "Backup for lift, common lights and one bedroom circuit."
+      },
+      "match_score": 90,
+      "fraud_score": 31,
+      "vibe_score": 74
+    },
+    {
+      "id": 4,
+      "title": "2 BHK in Prabhavathi Orchard",
+      "society": "Prabhavathi Orchard",
+      "address": "Flat G3, Basapura Village Road, Electronic City Phase 2, Bengaluru 560100",
+      "bhk": "2 BHK",
+      "area_sqft": 1200,
+      "floor": "Ground Floor / 4 Floors",
+      "total_floors": 4,
+      "facing": "East",
+      "age_years": 11,
+      "rent": 21000,
+      "maintenance": 2000,
+      "deposit": 60000,
+      "furnishing": "fully-furnished",
+      "furnishing_details": [
+        "2 double beds",
+        "wardrobes",
+        "sofa cum bed",
+        "dining table",
+        "refrigerator",
+        "washing machine",
+        "RO water purifier",
+        "TV cabinet",
+        "study desk",
+        "geyser",
+        "kitchen trolley",
+        "chimney"
+      ],
+      "amenities": [
+        "Gymnasium",
+        "24Hr backup",
+        "Security",
+        "Maintenance staff",
+        "Rain water harvesting",
+        "CCTV",
+        "Walking track"
+      ],
+      "available_from": "7 days notice",
+      "preferred_tenants": "Bachelor",
+      "owner": {
+        "name": "Jeevitha Suresh",
+        "phone": "+91 81234 67581",
+        "type": "Owner",
+        "since": "Listed 11 days ago",
+        "verified": false
+      },
+      "platform": "99acres",
+      "platform_color": "#16a34a",
+      "platform_url": "https://www.99acres.com/search/property/rent/electronic-city-bangalore-south",
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "tags": [
+        "budget fit",
+        "gym access",
+        "fully furnished",
+        "east facing",
+        "phase 2"
+      ],
+      "locality": "electronic city",
+      "phase": "Phase 2",
+      "lifestyle": "peaceful",
+      "commute_friendly": true,
+      "nearby": {
+        "it_companies": [
+          "Tech Mahindra (4.3 km)",
+          "Infosys SEZ (4.8 km)",
+          "Biocon (3.2 km)"
+        ],
+        "metro": "Huskur Road Metro Station (Yellow Line) — 2.4 km",
+        "hospital": "Kauvery Hospital, Electronic City — 3.7 km",
+        "supermarket": "D Mart, Bommasandra Road — 1.8 km",
+        "school": "Ekam International School — 3.4 km",
+        "bus_stop": "Basapura Bus Stop — 0.4 km"
+      },
+      "locality_intel": {
+        "overall_rating": 3.9,
+        "summary": "This side of Phase 2 is quieter and can suit someone who prefers lower density and easier evening runs inside internal roads. However, it is less polished than premium gated clusters and residents should expect occasional tanker dependence and mixed road maintenance.",
+        "pros": [
+          "Calmer residential environment than main road belts",
+          "Rent leaves room within budget for utilities",
+          "Basic gym inside project",
+          "Good access to Bommasandra side hospitals",
+          "Lower evening noise compared to service-road homes"
+        ],
+        "red_flags": [
+          "Ground-floor unit may get less ventilation",
+          "Internal roads can collect water in monsoon",
+          "Fewer walkable cafes and branded stores",
+          "Water quality can vary when tanker mixed",
+          "Society is older with simpler amenities"
+        ],
+        "aqi": {
+          "value": 81,
+          "level": "Moderate",
+          "pm25": "28 µg/m³",
+          "pm10": "60 µg/m³"
+        },
+        "noise": {
+          "level_db": 49,
+          "category": "Low-Moderate",
+          "note": "Ground-floor unit inside residential lane; generally quieter except school and office rush windows."
+        },
+        "traffic": {
+          "peak_delay": "15–20 minutes delay towards Phase 1 gates during weekday peaks.",
+          "off_peak": "Daily essentials and nearby office hubs usually reachable in 10–15 minutes."
+        },
+        "water_supply": {
+          "source": "combination",
+          "frequency": "daily",
+          "flag": "Mostly borewell-backed with periodic tanker supplementation in summer months."
+        },
+        "safety": {
+          "rating": "Moderate",
+          "police_station": "Hebbagodi Police Station — 2.7 km"
+        },
+        "internet": "JioFiber and Airtel available; ACT present in select blocks, 50–200 Mbps typical.",
+        "power_backup": "Common area backup and partial flat backup for lights and fans."
+      },
+      "match_score": 88,
+      "fraud_score": 36,
+      "vibe_score": 68
+    },
+    {
+      "id": 5,
+      "title": "2 BHK in Electra Park Apartment",
+      "society": "Electra Park Apartment",
+      "address": "Flat 302, 99-2 Kammasandra Road, Electronic City, Bengaluru 560100",
+      "bhk": "2 BHK",
+      "area_sqft": 1200,
+      "floor": "3rd Floor / 3 Floors",
+      "total_floors": 3,
+      "facing": "South-West",
+      "age_years": 14,
+      "rent": 19000,
+      "maintenance": 2350,
+      "deposit": 100000,
+      "furnishing": "fully-furnished",
+      "furnishing_details": [
+        "2 beds",
+        "3 wardrobes",
+        "sofa",
+        "refrigerator",
+        "washing machine",
+        "dining table",
+        "TV stand",
+        "geyser",
+        "modular kitchen shelves",
+        "ceiling fans",
+        "lights",
+        "shoe rack"
+      ],
+      "amenities": [
+        "Security",
+        "Generator backup",
+        "Kids play area",
+        "Covered parking",
+        "CCTV",
+        "Gym access tie-up nearby"
+      ],
+      "available_from": "Immediate",
+      "preferred_tenants": "Bachelor/Family",
+      "owner": {
+        "name": "Pradeep Kumar H",
+        "phone": "+91 76784 31926",
+        "type": "Owner",
+        "since": "Listed 2 days ago",
+        "verified": false
+      },
+      "platform": "NoBroker",
+      "platform_color": "#2563eb",
+      "platform_url": "https://www.nobroker.in/property/rent/bangalore/Electronic%20City%20Phase%202",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+      "tags": [
+        "below budget",
+        "top floor",
+        "pharmacy nearby",
+        "value rental",
+        "older society"
+      ],
+      "locality": "electronic city",
+      "phase": "Kammasandra",
+      "lifestyle": "balanced",
+      "commute_friendly": true,
+      "nearby": {
+        "it_companies": [
+          "Narayana Health Campus offices (3.1 km)",
+          "Infosys Campus (5.0 km)",
+          "Biocon (2.7 km)"
+        ],
+        "metro": "Huskur Road Metro Station (Yellow Line) — 1.9 km",
+        "hospital": "Narayana Institute of Cardiac Sciences — 2.9 km",
+        "supermarket": "Metro Cash & Carry / local supermarket cluster — 1.0 km",
+        "school": "Ebenezer International School — 2.6 km",
+        "bus_stop": "Kammasandra Bus Stop — 0.2 km"
+      },
+      "locality_intel": {
+        "overall_rating": 3.8,
+        "summary": "Kammasandra offers decent affordability and useful everyday retail, with metro and hospital access improving steadily. It is practical rather than premium, and older apartments here often trade lower rent for simpler amenities and more variable upkeep.",
+        "pros": [
+          "Affordable rent for a large 2 BHK",
+          "Very close to bus connectivity",
+          "Hospitals and pharmacies within quick reach",
+          "Metro reachable by short auto ride",
+          "Less pressure on budget despite furnishing"
+        ],
+        "red_flags": [
+          "Older building with limited lifestyle amenities",
+          "Maintenance quality can vary",
+          "Rent is a bit below typical fully-furnished market",
+          "Some stretches see heavy truck movement",
+          "Higher deposit despite modest rent"
+        ],
+        "aqi": {
+          "value": 96,
+          "level": "Moderate",
+          "pm25": "37 µg/m³",
+          "pm10": "76 µg/m³"
+        },
+        "noise": {
+          "level_db": 63,
+          "category": "Moderate-High",
+          "note": "Top floor helps, but Kammasandra Road traffic remains audible in evenings."
+        },
+        "traffic": {
+          "peak_delay": "18–25 minutes additional delay towards core Phase 1 during rush hours.",
+          "off_peak": "Local commute to hospitals, shops and metro stays within 8–12 minutes."
+        },
+        "water_supply": {
+          "source": "borewell",
+          "frequency": "daily",
+          "flag": "Daily borewell supply; tanker may be arranged if summer levels drop."
+        },
+        "safety": {
+          "rating": "Moderate",
+          "police_station": "Hebbagodi Police Station — 2.4 km"
+        },
+        "internet": "Airtel and JioFiber commonly available; 50–150 Mbps plans typical.",
+        "power_backup": "Generator backup for common services and basic in-home points."
+      },
+      "match_score": 78,
+      "fraud_score": 58,
+      "vibe_score": 55
+    },
+    {
+      "id": 6,
+      "title": "2 BHK in Pride Pristine",
+      "society": "Pride Pristine",
+      "address": "Flat B-008, Basapura Main Road, Electronic City Phase 2, Bengaluru 560100",
+      "bhk": "2 BHK",
+      "area_sqft": 1125,
+      "floor": "Ground Floor / 12 Floors",
+      "total_floors": 12,
+      "facing": "North-East",
+      "age_years": 7,
+      "rent": 24800,
+      "maintenance": 2200,
+      "deposit": 100000,
+      "furnishing": "fully-furnished",
+      "furnishing_details": [
+        "queen bed",
+        "guest bed",
+        "wardrobes",
+        "sectional sofa",
+        "coffee table",
+        "4-seater dining table",
+        "refrigerator",
+        "washing machine",
+        "microwave",
+        "TV",
+        "modular kitchen",
+        "chimney",
+        "geyser",
+        "blackout curtains"
+      ],
+      "amenities": [
+        "Swimming pool",
+        "Gym",
+        "Clubhouse",
+        "Jogging track",
+        "24x7 security",
+        "Lift",
+        "Power backup",
+        "Indoor games",
+        "Landscaped garden",
+        "Covered parking"
+      ],
+      "available_from": "15 days notice",
+      "preferred_tenants": "Working Professional",
+      "owner": {
+        "name": "Sampath Reddy",
+        "phone": "+91 90127 64853",
+        "type": "Owner",
+        "since": "Listed 9 days ago",
+        "verified": true
+      },
+      "platform": "MagicBricks",
+      "platform_color": "#e63946",
+      "platform_url": "https://www.magicbricks.com/property-for-rent/residential-real-estate?proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment&cityName=Bangalore&Locality=Electronic%20City",
+      "image": "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?w=800&q=80",
+      "tags": [
+        "premium society",
+        "pool gym jog track",
+        "fitness lifestyle",
+        "fully furnished",
+        "phase 2"
+      ],
+      "locality": "electronic city",
+      "phase": "Phase 2",
+      "lifestyle": "premium",
+      "commute_friendly": true,
+      "nearby": {
+        "it_companies": [
+          "Infosys Campus (4.6 km)",
+          "Wipro SEZ (5.2 km)",
+          "Biocon Park (3.6 km)"
+        ],
+        "metro": "Huskur Road Metro Station (Yellow Line) — 2.0 km",
+        "hospital": "Mazumdar Shaw Medical Center — 3.0 km",
+        "supermarket": "Reliance Smart Point — 0.7 km",
+        "school": "St. Francis De Sales Public School — 1.9 km",
+        "bus_stop": "Basapura Gate Bus Stop — 0.5 km"
+      },
+      "locality_intel": {
+        "overall_rating": 4.1,
+        "summary": "Pride Pristine style gated communities in Phase 2 appeal to professionals who want amenities-led living without leaving Electronic City. Commute remains manageable, and fitness infrastructure is stronger here, though ground-floor homes may have less privacy and some dependence on tanker support during high-demand months.",
+        "pros": [
+          "Strong gym-pool-jogging track combination",
+          "Good fit for active lifestyle users",
+          "Large gated community with better security",
+          "Daily essentials nearby",
+          "Work commute usually stays within requested 30 minutes"
+        ],
+        "red_flags": [
+          "Ground-floor unit offers lower privacy",
+          "Peak traffic still affects access to Phase 1 offices",
+          "Summer tanker top-ups can happen",
+          "Slightly higher total monthly outgo with maintenance",
+          "Auto surge pricing common in rainy evenings"
+        ],
+        "aqi": {
+          "value": 86,
+          "level": "Moderate",
+          "pm25": "30 µg/m³",
+          "pm10": "66 µg/m³"
+        },
+        "noise": {
+          "level_db": 52,
+          "category": "Low-Moderate",
+          "note": "Inside a gated complex away from main carriageway; occasional amenity-area activity nearby."
+        },
+        "traffic": {
+          "peak_delay": "12–22 minutes added near Phase 2 junction and Hosur Road merge points during office peaks.",
+          "off_peak": "Most office points in Electronic City reachable within 10–18 minutes."
+        },
+        "water_supply": {
+          "source": "combination",
+          "frequency": "daily",
+          "flag": "BWSSB and borewell with tanker backup during summer demand spikes."
+        },
+        "safety": {
+          "rating": "Good",
+          "police_station": "Hebbagodi Police Station — 3.3 km"
+        },
+        "internet": "ACT, Airtel Xstream and JioFiber available; 150–500 Mbps plans common in gated communities.",
+        "power_backup": "100% backup for common areas and essential apartment load."
+      },
+      "match_score": 94,
+      "fraud_score": 10,
+      "vibe_score": 89
+    }
+  ],
+  "source": "ai"
+}
