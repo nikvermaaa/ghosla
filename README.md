@@ -251,14 +251,6 @@ The fallback always works. The demo never breaks.
 
 ---
 
-## Built at Nitte Hackathon
-
-> Ghosla was built as an MVP at the Nitte Hackathon. The name means *nest* in Urdu/Hindi — a home you actually want to come back to.
-
----
-
-<div align="center">
-
 **Ghosla — Your next home is one smart conversation away.**
 
 </div>
